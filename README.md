@@ -24,7 +24,7 @@
         <td>
             <div>
                 
-[![Deep learning Workshop for Satellite Imagery - Training & Prediction (https://img.youtube.com/vi/UBzMgr6yfpw/0.jpg)](https://www.youtube.com/watch?v=UBzMgr6yfpw)
+[![Deep learning Workshop for Satellite Imagery - Training & Prediction (Part 2/3)] (https://img.youtube.com/vi/UBzMgr6yfpw/0.jpg)](https://www.youtube.com/watch?v=UBzMgr6yfpw)
 
   </tr>
 </table>
