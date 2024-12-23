@@ -9,7 +9,7 @@
         <td>
             <div>
                 
-[![Deep learning Workshop for Satellite Imagery - Data Processing (Part 1/3)](https://img.youtube.com/vi/3Xn21RT-y7Y/0.jpg)](https://www.youtube.com/watch?v=3Xn21RT-y7Y)
+
 
   </tr>
 </table>
