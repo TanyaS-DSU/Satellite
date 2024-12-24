@@ -1,4 +1,8 @@
 # Deep learning with Satellite Image #
+<td align="center"><b>🔥&nbsp;Plagerism Check for Satellite Imagery and AI for vegeatation Monitoring </b></td>
+
+![Screenshot 2024-12-24 142651](https://github.com/user-attachments/assets/7cac652c-4b0e-4399-ab83-5ffe830b0d5e)
+
 
 ## Part 1 : Satellite Images Data Processing ##  
  <table class="table table-striped table-bordered table-vcenter">
